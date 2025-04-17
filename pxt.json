@@ -1,0 +1,23 @@
+{
+    "name": "hoc22-ts",
+    "version": "0.4.5",
+    "dependencies": {
+        "core": "*",
+        "builder": "*"
+    },
+    "files": [
+        "README.md",
+        "hoc22.ts",
+        "tutorial-info-cache.json",
+        "custom.jres",
+        "RedLaserSlide.jres"
+    ],
+    "targetVersions": {
+        "target": "1.6.27",
+        "targetId": "minecraft"
+    },
+    "supportedTargets": [
+        "minecraft"
+    ],
+    "preferredEditor": "tsprj"
+}
